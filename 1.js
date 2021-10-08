@@ -1,7 +1,7 @@
 // local
 const secret = "SUPER SECRET";
 // share
-const john = "Abdul Ghaffar";
+const john = "Abdul Ghaffar Siddiqui";
 const peter = "Siddiqui";
-
-module.exports = { john, peter };
+const peter1 = "Siddiqui1";
+module.exports = { john, peter, peter1 };
